@@ -82,7 +82,7 @@ div#layout-menu {
 	height: calc(100% - 97px);
 	min-width: 280px;
 	position: fixed;
-	overflow: scroll;
+	overflow: hidden;
 	background: #f6f8fa;
 	border-right: 0.8px solid #e1e4e8;
 }
